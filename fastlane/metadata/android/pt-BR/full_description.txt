@@ -1,0 +1,44 @@
+O <strong>Provedor de Documentos CIFS</strong> é um aplicativo Android que fornece acesso a armazenamento online compartilhado.
+
+<strong><font color="#339933">[Recursos]</font></strong>
+
+* Fornece a outros aplicativos acesso ao armazenamento de rede compartilhado por meio do Storage Access Framework (SAF).
+* Fornece acesso a arquivos e diretórios.
+* Suporta SMB (Samba, Common Internet File System (CIFS), Pasta Compartilhada da Rede Windows), FTP, FTPS e SFTP.
+* Compartilha e transfere arquivos no armazenamento online.
+* Várias configurações de conexão podem ser armazenadas.
+* Suporta exportação/importação de configurações de conexão.
+* Suporta modo escuro.
+* Pode ser tratado como armazenamento local (configuração necessária).
+* Notificações podem ser exibidas para impedir o encerramento de tarefas (configuração necessária).
+
+<strong><font color="#339933">[Objetivo]</font></strong>
+
+* Importação e exportação de arquivos criados pelo aplicativo.
+* Gerencie arquivos e diretórios com o aplicativo Gerenciador de Armazenamento.
+* Reproduza músicas, vídeos etc. com o aplicativo reprodutor de mídia.
+* Salvamento direto de fotos tiradas com o aplicativo da câmera.
+
+<strong><font color="#339933">[Observação]</font></strong>
+
+* Não há função de gerenciamento de arquivos neste aplicativo.
+* Para usar este aplicativo, seus aplicativos devem ser compatíveis com SAF (Storage Access Framework).
+* Aplicativos que assumem armazenamento local podem não funcionar corretamente.
+* Os aplicativos podem travar quando especificados como destino de armazenamento para streaming de dados de áudio ou vídeo.
+
+<strong><font color="#339933">[Como usar]</font></strong>
+
+Consulte a página a seguir. (Japonês)
+https://github.com/wa2c/cifs-documents-provider/wiki/Manual-ja
+
+<strong><font color="#339933">[Fontes]</font></strong>
+
+GitHub
+https://github.com/wa2c/cifs-documents-provider
+
+<strong><font color="#339933">[Problemas]</font></strong>
+
+Problema no GitHub
+https://github.com/wa2c/cifs-documents-provider/issues
+
+Publique aqui se tiver relatórios de bugs, solicitações futuras ou outras informações.

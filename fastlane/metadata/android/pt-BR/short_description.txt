@@ -1,0 +1,1 @@
+Fornece acesso a compartilhamentos em rede.
